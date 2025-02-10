@@ -16,3 +16,4 @@ export function MessageProvider({ children }) {
 MessageProvider.propTypes = {
   children: PropTypes.node.isRequired,
 };
+
