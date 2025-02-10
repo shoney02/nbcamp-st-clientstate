@@ -11,7 +11,7 @@ function App() {
   return (
     <MessageProvider>
       <AppContainer>
-        <h2>[내배캠] 스탠다드반 프로젝트 - Context API 예제</h2>
+        <h2>[ 내배캠 ] 스탠다드반 프로젝트 - Context API 예제</h2>
         <Content>
           <StateControl />
           <DeepStructure>
